@@ -33,7 +33,7 @@ dependencies {
     compile 'org.codehaus.groovy:groovy-all:3.0.9'
 
     //Needed to help with injections for TestNG listeners
-    compile 'com.google.inject:guice:3.0'
+    compile 'com.google.inject:guice:5.0.1'
 
     //This way is the long cut
     //This is the TestNG test execution library that is better than JUnit
