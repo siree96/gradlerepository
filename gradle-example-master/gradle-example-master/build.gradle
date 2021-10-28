@@ -30,7 +30,7 @@ dependencies {
     compile 'ch.qos.logback:logback-classic:1.1.1'
 
     //Groovy information to compile groovy code
-    compile 'org.codehaus.groovy:groovy-all:2.2.0'
+    compile 'org.codehaus.groovy:groovy-all:2.1.0'
 
     //Needed to help with injections for TestNG listeners
     compile 'com.google.inject:guice:3.0'
@@ -44,7 +44,7 @@ dependencies {
     testCompile 'org.easytesting:fest-assert-core:2.0M10'
 
     //Better reporting for testng.  It outputs a nice html report
-    testCompile 'org.uncommons:reportng:1.1.4'
+    testCompile 'org.uncommons:reportng:1.1.2'
 
 }
 
