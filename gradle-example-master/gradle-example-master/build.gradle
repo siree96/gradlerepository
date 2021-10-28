@@ -30,7 +30,7 @@ dependencies {
     compile 'ch.qos.logback:logback-classic:1.1.1'
 
     //Groovy information to compile groovy code
-    compile 'org.codehaus.groovy:groovy-all:2.1.0'
+    compile 'org.codehaus.groovy:groovy-all:3.0.9'
 
     //Needed to help with injections for TestNG listeners
     compile 'com.google.inject:guice:3.0'
