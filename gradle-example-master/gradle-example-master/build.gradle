@@ -27,7 +27,7 @@ repositories {
 
 dependencies {
     //There are 2 ways to list the dependency information.  This way is the short cut
-    compile 'ch.qos.logback:logback-classic:1.2.6'
+    compile 'ch.qos.logback:logback-classic:1.4.3'
 
     //Groovy information to compile groovy code
     compile 'org.codehaus.groovy:groovy-all:3.0.9'
